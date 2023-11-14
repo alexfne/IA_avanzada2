@@ -23,7 +23,7 @@ La navegación eficiente y segura a través de las vías públicas requiere de u
 - Funcionalidades de visualización del árbol.
 
 ## Googlecolab
-[M2_2_Portafolio_implementacion.ipynb]([https://colab.research.google.com/drive/1ULVWUYfqQ1DBGmIoFvlrfpiZaBXBoxQw?usp=sharing](https://colab.research.google.com/drive/1jFE_24rUTNe7vJcpw2NnYxr3v00Lk0dM?usp=sharing])
+[M2_2_Portafolio_implementacion](https://colab.research.google.com/drive/1jFE_24rUTNe7vJcpw2NnYxr3v00Lk0dM?usp=sharing)
 
 ## Contribuciones
 
