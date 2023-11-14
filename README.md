@@ -9,77 +9,22 @@
 
 ## Tabla de Contenidos
 
-- [Carpetas](#carpetas)
 - [Descripción](#descripción)
 - [Características](#características)
-- [Requisitos Previos](#requisitos-previos)
-- [Instalación](#instalación)
-- [Uso](#uso)
-- [GoogleColab](#googlecolab)
-- [GoogleDocs](#googledocs)
 - [Contribuciones](#contribuciones)
-
-## Carpetas
-
-- `Modulo2_con_FW`: Carpeta que contiene el programa de python y los documentos csv que se utilizan para demostrar el aprendizaje máquina con uso de librerias
-- `Modulo2_sin_FW`: Carpeta que contiene el programa de python y los documentos csv que se utilizan para demostrar el aprendizaje máquina sin el uso de librerias
 
 ## Descripción
 
-Este repositorio contiene una implementación de un algoritmo de Machine Learning, el cual nos predice el porcentaje de probabilidad que salga tal dato.
+La navegación eficiente y segura a través de las vías públicas requiere de una comprensión clara y precisa de las señales de tránsito por parte de los conductores. Estas señales, diseñadas para regular, advertir y guiar, son fundamentales para el mantenimiento del orden y la seguridad en las carreteras. Sin embargo, la diversidad y complejidad de las señales de tránsito pueden conducir a confusiones, interpretaciones erróneas y, en última instancia, a decisiones de conducción peligrosas. Esta problemática se ve exacerbada por factores como la variabilidad en el diseño de las señales entre diferentes regiones, el estado de conservación de las mismas, y las condiciones ambientales que pueden obstruir su visibilidad.
 
 ## Características
 
 - Implementación de árbol de decisión desde cero.
 - Funcionalidades de visualización del árbol.
 
-## Requisitos Previos
-
-- Python 3.8+
-- Librerías:
-    - numpy
-    - pandas
-    - scikit-learn
-
-## Instalación
-
-1. Clonar el repositorio:
-   ```bash
-   git clone https://github.com/alexfne/IA_concentracion.git
-
-2. Numpy:
-   ```bash
-   pip install numpy
-   
-4. Pandas:
-   ```bash
-   pip install pandas
-   
-5. Scikit-learn:
-   ```bash
-   pip install scikit-learn
-
-6. Matplot:
-   ```bash
-   pip install matplotlib
-
-## Uso
-
-1. Clona el repositorio de github.
-2. Abre el compilador de tu maquina.
-3. Metete a la carpeta donde se encuentre los archivos
-4. Corre el archivo `M2_d_tree.py` si quieres correr el archivo que NO utiliza libreraias.
-5. Corre el archivo `M2_d_treeFW.py` si quieres correr el archivo que utiliza libreraias.
-6. Ingresa la ruta donde se guardaron los archivos csv + `/filename.csv` con el cual se haran las pruebas.
-7. Espera que el programa finalice
-
 ## Googlecolab
-[Arbol de decisiones SIN librerias](https://colab.research.google.com/drive/1ULVWUYfqQ1DBGmIoFvlrfpiZaBXBoxQw?usp=sharing)
+[M2_2_Portafolio_implementacion.ipynb]([https://colab.research.google.com/drive/1ULVWUYfqQ1DBGmIoFvlrfpiZaBXBoxQw?usp=sharing](https://colab.research.google.com/drive/1jFE_24rUTNe7vJcpw2NnYxr3v00Lk0dM?usp=sharing))
 
-[Arbol de decisiones CON librerias](https://colab.research.google.com/drive/1X1Hpuv5llX6TzEou8VtCqsp47ZTtvoy-?usp=sharing)
-
-## GoogleDocs
-[Documento de análisis](https://docs.google.com/document/d/1xOEZsdIWRwpkXSr6cq8LTBdSoYbpXzwa3TQurHZmDFQ/edit?usp=sharing)
 ## Contribuciones
 
 ¡Las contribuciones son bienvenidas! Si encuentras algún error o tienes alguna mejora, siéntete libre de abrir un problema o enviar una solicitud de extracción.
